@@ -1,12 +1,5 @@
 
 
-// alert('thank you for visiting our page !');
-
-
-// var question = prompt('whoud you like to shop ?')
-// if(question === 'yes') {
-//     alert('enjoy shopping with us')}
-
 var clothesType = prompt('please enter the clothes type');
 while(clothesType !== 'shirts' && clothesType !== 'pants')   
 {
